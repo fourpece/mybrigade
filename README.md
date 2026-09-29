@@ -1,12 +1,6 @@
 # 🦁 Brigade — Your personal intelligence, built enterprise-grade
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spinabot/brigade/main/assets/brigade-banner-on-black.gif" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spinabot/brigade/main/assets/brigade-banner.gif" />
-    <img src="https://raw.githubusercontent.com/spinabot/brigade/main/assets/brigade-banner.gif" alt="Brigade — your personal intelligence, built enterprise-grade" width="900" />
-  </picture>
-</p>
+<p align="center"></p>
 
 <p align="center">
   <strong>Built for enterprise scale. Open for everyone.</strong> &middot; <em>An ecosystem, not an app.</em>
